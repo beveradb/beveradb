@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Andrew Beveridge &#9732;️'s GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 235, Total Commits  (last year) : 2217, Total PRs: 815, Total Issues: 86, Contributed to (last year): 16</desc>
+        <desc id="descId">Total Stars Earned: 235, Total Commits  (last year) : 2218, Total PRs: 815, Total Issues: 86, Contributed to (last year): 16</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 23.857736314513026;
+        stroke-dashoffset: 23.857488093731135;
       }
     }
   
